@@ -42,7 +42,7 @@ module.exports = {
 			{
 				name: "Music", //- Status Text
 				type: "LISTENING", //- PLAYING, WATCHING, LISTENING, STREAMING
-				state: "discord.gg/3m34by4B"
+				state: "Milo Music"
 			},
 		],
 	},
